@@ -55,6 +55,9 @@ Without this visibility, it becomes difficult to optimize pricing strategies, id
 5. **Visualization**
    - Built an interactive Power BI dashboard to present final insights
 
+ **Dashboard Views**
+ ![Dashboard](Airbnb_Dashboard.png)
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -91,8 +94,8 @@ Without this visibility, it becomes difficult to optimize pricing strategies, id
 ---
 
 ## 📌 Files Included
-- **Problem_Statement.md** – Business problem and objectives  
-- **EDA.ipynb** – Complete ETL and EDA process  
+- **Airbnb_Problem_Statement.md** – Business problem and objectives  
+- **Airbnb_EDA.ipynb** – Complete ETL and EDA process  
 - **EDA_Report.pdf** – Summary of analysis and insights  
 - **Airbnb_Dashboard.pbix** – Interactive Power BI dashboard  
 - **Airbnb_Dashboard.png** – Dashboard preview image  
