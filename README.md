@@ -1,4 +1,4 @@
-# Airbnb Data Analytics Project (End-to-End)
+# Airbnb Analysis | Python, SQL, Power BI
 
 ## 📌 Project Overview
 Airbnb operates across multiple locations and room types, hosting a large number of property listings with varying prices, availability, service fees, and host characteristics.  
